@@ -24,6 +24,8 @@
 
 -- See https://github.com/basecamp/omarchy/blob/dev/themes/osaka-jade/colors.toml
 
-main = "#111c18"
-accent = "#509475"
-shadow = "#549e6a"
+return {
+    main = "#111c18",
+    accent = "#509475",
+    shadow = "#549e6a",
+}
