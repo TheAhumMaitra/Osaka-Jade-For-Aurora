@@ -1,0 +1,10 @@
+name = "Osaka Jade"
+version = "0.1.0"
+
+authors = [
+    "Ahum Maitra (@TheAhumMaitra) theahummaitra@gmail.com",
+]
+
+license = "MIT"
+wallpapers_sources = ["https://github.com/basecamp/omarchy/blob/dev/themes/osaka-jade/backgrounds/"]
+repo_url = "https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora"

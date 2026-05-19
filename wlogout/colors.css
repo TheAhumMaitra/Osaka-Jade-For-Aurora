@@ -1,0 +1,5 @@
+@define-color background rgba(0, 0, 0, 0.2);
+@define-color border-color #53685B;
+@define-color foreground  #C1C497;
+@define-color button-background  #111c18;
+@define-color active-background #549e6a;
