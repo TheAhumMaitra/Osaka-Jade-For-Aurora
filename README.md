@@ -11,5 +11,10 @@ You can install this theme via our CLI
 aurora download-theme https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora
 ```
 
+
 # License
-This project is licensed under the terms of MIT License
+This project's source code is licensed under the terms of MIT License
+
+_I do not own any wallpapers_
+
+### `illustration of rain in the futuristic city` is designed by Freepik - Magnific.com
