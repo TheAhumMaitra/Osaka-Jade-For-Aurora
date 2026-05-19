@@ -2,6 +2,6 @@
     foreground: #C1C497;
     background: #111c18;
     entry-background: #459451;
-    urgent-background: #C1C497;
+    urgent-background: #459451;
     bordercolor: #53685B;
 }
