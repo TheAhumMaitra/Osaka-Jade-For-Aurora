@@ -16,7 +16,6 @@ You can install this theme via our CLI
 aurora download-theme https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora
 ```
 
-
 # License
 This project's source code is licensed under the terms of MIT License
 
