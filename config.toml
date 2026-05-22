@@ -8,3 +8,7 @@ authors = [
 license = "MIT"
 wallpapers_sources = ["https://github.com/basecamp/omarchy/blob/dev/themes/osaka-jade/backgrounds/"]
 repo_url = "https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora"
+
+[gtk]
+theme_name = "Yaru-sage-dark"
+icon_theme = "Yaru-sage"
