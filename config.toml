@@ -12,3 +12,8 @@ repo_url = "https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora"
 [gtk]
 theme_name = "Yaru-sage-dark"
 icon_theme = "Yaru-sage"
+
+[vscode]
+publisher = "jovejonovski"
+extension_name = "ocean-green"
+theme_name = "Ocean Green: Dark"
