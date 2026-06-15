@@ -17,3 +17,6 @@ icon_theme = "Yaru-sage"
 publisher = "jovejonovski"
 extension_name = "ocean-green"
 theme_name = "Ocean Green: Dark"
+
+[zed]
+theme_name = "Bamboo Multiplex"
