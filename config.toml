@@ -10,7 +10,7 @@ wallpapers_sources = ["https://github.com/basecamp/omarchy/blob/dev/themes/osaka
 repo_url = "https://github.com/TheAhumMaitra/Osaka-Jade-For-Aurora"
 
 [gtk]
-theme_name = "Yaru-sage-dark"
+theme_name = "Gruvbox-Material-Dark"
 icon_theme = "Yaru-sage"
 
 [vscode]
